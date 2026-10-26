@@ -1,7 +1,7 @@
 {
   "name": "bot.fr",
   "version": "2.2",
-  "description": "Robust AFK bot for Minecraft servers with infinite uptime.",
+  "description": "idk",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
